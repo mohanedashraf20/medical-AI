@@ -6,11 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/WhatsApp Image 2026-03-24 at 10.41.13 PM.jpeg",
     "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
     "android": {
       "package": "com.mohaned.aiapp"
     }
